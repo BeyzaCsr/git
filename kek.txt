@@ -5,3 +5,4 @@ malzemeler
 4. seker
 hazirlanisi
 1. seker ve yumurtayi cirp
+2. cikolata ekle
