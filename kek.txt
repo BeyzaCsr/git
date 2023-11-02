@@ -3,3 +3,5 @@ malzemeler
 2. yumurta
 3. süt
 4. seker
+hazirlanisi
+1. seker ve yumurtayi cirp
